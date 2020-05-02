@@ -1,0 +1,138 @@
+Cleared: 8 at [4,8]
+Median difficulty of clearing rubble is: 8.00
+TNT explosion at [5,7]!
+Cleared by TNT: 1 at [5,6]
+Median difficulty of clearing rubble is: 4.50
+Cleared by TNT: 1 at [4,7]
+Median difficulty of clearing rubble is: 1.00
+Cleared by TNT: 8 at [6,7]
+Median difficulty of clearing rubble is: 4.50
+Cleared: 1 at [4,6]
+Median difficulty of clearing rubble is: 1.00
+Cleared: 1 at [4,9]
+Median difficulty of clearing rubble is: 1.00
+TNT explosion at [4,10]!
+Cleared by TNT: 1 at [3,10]
+Median difficulty of clearing rubble is: 1.00
+Cleared by TNT: 9 at [5,10]
+Median difficulty of clearing rubble is: 1.00
+Cleared: 1 at [2,9]
+Median difficulty of clearing rubble is: 1.00
+TNT explosion at [2,8]!
+TNT explosion at [2,7]!
+Cleared by TNT: 5 at [1,8]
+Median difficulty of clearing rubble is: 1.00
+Cleared by TNT: 5 at [2,6]
+Median difficulty of clearing rubble is: 1.00
+Cleared by TNT: 5 at [3,8]
+Median difficulty of clearing rubble is: 3.00
+Cleared by TNT: 6 at [3,7]
+Median difficulty of clearing rubble is: 5.00
+Cleared by TNT: 7 at [1,7]
+Median difficulty of clearing rubble is: 5.00
+Cleared: 1 at [1,9]
+Median difficulty of clearing rubble is: 5.00
+TNT explosion at [1,10]!
+Cleared by TNT: 3 at [1,11]
+Median difficulty of clearing rubble is: 4.00
+Cleared by TNT: 6 at [2,10]
+Median difficulty of clearing rubble is: 5.00
+Cleared by TNT: 9 at [0,10]
+Median difficulty of clearing rubble is: 5.00
+Cleared 33 tiles containing 78 rubble and escaped.
+First tiles cleared:
+8 at [4,8]
+TNT at [5,7]
+1 at [5,6]
+1 at [4,7]
+8 at [6,7]
+1 at [4,6]
+1 at [4,9]
+TNT at [4,10]
+1 at [3,10]
+9 at [5,10]
+1 at [2,9]
+TNT at [2,8]
+TNT at [2,7]
+5 at [1,8]
+5 at [2,6]
+5 at [3,8]
+6 at [3,7]
+7 at [1,7]
+1 at [1,9]
+TNT at [1,10]
+3 at [1,11]
+6 at [2,10]
+9 at [0,10]
+Last tiles cleared:
+9 at [0,10]
+6 at [2,10]
+3 at [1,11]
+TNT at [1,10]
+1 at [1,9]
+7 at [1,7]
+6 at [3,7]
+5 at [3,8]
+5 at [2,6]
+5 at [1,8]
+TNT at [2,7]
+TNT at [2,8]
+1 at [2,9]
+9 at [5,10]
+1 at [3,10]
+TNT at [4,10]
+1 at [4,9]
+1 at [4,6]
+8 at [6,7]
+1 at [4,7]
+1 at [5,6]
+TNT at [5,7]
+8 at [4,8]
+Easiest tiles cleared:
+TNT at [5,7]
+TNT at [1,10]
+TNT at [2,7]
+TNT at [2,8]
+TNT at [4,10]
+1 at [4,9]
+1 at [3,10]
+1 at [1,9]
+1 at [2,9]
+1 at [4,7]
+1 at [5,6]
+1 at [4,6]
+3 at [1,11]
+5 at [2,6]
+5 at [3,8]
+5 at [1,8]
+6 at [3,7]
+6 at [2,10]
+7 at [1,7]
+8 at [4,8]
+8 at [6,7]
+9 at [5,10]
+9 at [0,10]
+Hardest tiles cleared:
+9 at [0,10]
+9 at [5,10]
+8 at [6,7]
+8 at [4,8]
+7 at [1,7]
+6 at [2,10]
+6 at [3,7]
+5 at [1,8]
+5 at [3,8]
+5 at [2,6]
+3 at [1,11]
+1 at [4,6]
+1 at [5,6]
+1 at [4,7]
+1 at [2,9]
+1 at [1,9]
+1 at [3,10]
+1 at [4,9]
+TNT at [4,10]
+TNT at [2,8]
+TNT at [2,7]
+TNT at [1,10]
+TNT at [5,7]

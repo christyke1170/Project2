@@ -1,0 +1,33 @@
+# Version 4.1 - 2016-10-07, Marcus M. Darden (mmdarden@umich.edu)
+#   * Allow test rules to worry without a defined PROJECTFILE
+#   * COPYFILE_DISABLE=true sets an environment variable that prevents MacOS
+#     from doing messy things while making tarballs
+#   * make clean now removes .dSYM directories from MacOS compilation
+#   * make debug now builds EXECUTABLE_debug
+#       1. make clean
+#       2. make -rR
+#       3. make debug
+#     Will generate both an executable and executable_debug properly
+#   * Added -Wconversion to prevent conversion oversights
+# Version 4 - 2015-05-03, Marcus M. Darden (mmdarden@umich.edu)
+#   * Updated build rules for tests
+# Version 3.0.1 - 2015-01-22, Waleed Khan (wkhan@umich.edu)
+#   * Added '$(EXECUTABLE): $(OBJECTS)' target. Now you can compile with
+#     'make executable', and re-linking isn't done unnecessarily.
+# Version 3 - 2015-01-16, Marcus M. Darden (mmdarden@umich.edu)
+#   * Add help rule and message
+#   * All customization locations are cleary marked.
+# Version 2 - 2014-11-02, Marcus M. Darden (mmdarden@umich.edu)
+#   * Move customization section to the bottom of the file
+#   * Add support for submit without test cases, to prevent submission
+#     deduction while testing, when code fails to compile
+#       usage: make partialsubmit  <- includes no test case files
+#              make fullsubmit     <- includes all test case files
+#   * Add automatic creation of test targets for test driver files
+#       usage: (add cpp files to the project folder with a test prefix)
+#              make alltests       <- builds all test*.cpp
+#              make test_insert    <- builds testinsert from test_insert.cpp
+#              make test2          <- builds testinsert from test2.cpp
+#   * Add documentation and changelog
+# Version 1 - 2014-09-21, David Snider (sniderdj@umich.edu)
+# Version 0 - ????-??-??, Matt Diffenderfer (mjdiffy@umich.edu)
